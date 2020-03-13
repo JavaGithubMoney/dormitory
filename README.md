@@ -1,9 +1,9 @@
-## DormitorySystem 
-![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-brightgreen.svg) ![Java](https://img.shields.io/badge/Java-1.8-blue.svg) ![Database](https://img.shields.io/badge/Database-MySQL-lightgrey.svg) 
-- 毕业设计💼
-- MD5加密🔒
-- SSM框架🎨
-- Layui框架🎄
+# 宿舍管理系统 
+
+> 可用于毕业设计参考或者个人学习用
+
+- spring+srpingMVC+mybatic+mysql
+- Layui框架
 
 #### 实现功能
 - [x] 管理员的登录与登出  
@@ -11,13 +11,12 @@
 - [x] 个别模块关联查询  
 - [x] 各个模块数据导出Excel
 
-#### 一些截图
-![dorm1](http://image.zxkidea.top/dorm1.png)
+#### 部分截图
+![dorm1](image/1)
 
-![dorm1](http://image.zxkidea.top/dorm2.png)
+![dorm1](image/2)
 
-![dorm1](http://image.zxkidea.top/dorm3.png)
-
-![dorm1](http://image.zxkidea.top/dorm4.png)
+# 源码完整版 可加qq：625285133 咨询获取，可一对一专业指定需求，个性化制定代码。
+# 后续持续更新新系统，敬请期待！
 
 
